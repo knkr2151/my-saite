@@ -1,0 +1,95 @@
+h1 {
+    color: #262626;
+    font-size: 50px;
+    padding: 30px 0px 0px 100px;
+}
+
+p.pc img {
+    width: 150px;
+}
+
+.top {
+    display: flex;
+    
+}
+
+body {
+    background-size: cover;
+    margin: 20px;
+}
+
+.profile {
+    background-color: white;
+    padding: 10px;
+}
+
+p.icon img {
+    width: 150px;
+    border: solid 2px #000;
+    border-radius: 50px;
+}
+
+h2 {
+    font-size: 30px;
+    padding: 10px 0px 0px 20px;
+    margin: 10px;
+}
+
+.skill {
+    background-color: aliceblue;
+    padding: 10px;
+    margin: 10px 0px 10px 0px;
+    
+}
+
+h5 {
+    font-size: 30px;
+    padding: 10px 0px 0px 20px;
+}
+
+ul {
+    font-size: 20px;
+}
+
+.Like {
+    background-color: azure;
+    padding: 10px;
+    margin: 10px 0px 10px 0px;
+}
+
+h6 {
+    font-size: 30px;
+    padding: 10px 0px 0px 20px;
+}
+
+h7 {
+    font-size: 20px;
+}
+
+h8 {
+    font-size: 20px;
+}
+
+
+
+p.book img {
+    width: 150px;
+    border: solid 2px #000;
+    border-radius: 10px;
+}
+
+p.heart img {
+    width: 150px;
+    border: solid 2px #000;
+    border-radius: 10px;
+}
+
+footer {
+    color: #262626;
+    bottom: 0;
+    background: gray;
+    width: 100%;
+    text-align: center;
+    padding: 20px 0px;
+    font-size: 15px;
+}
